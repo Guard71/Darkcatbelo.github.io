@@ -14,12 +14,12 @@
     <section class="meme-container">
         <img src="meme-image.jpg" alt="Meme">
     </section>
-    <footer>
+    <footer>k
         <div class="social-buttons">
             <a href="https://www.facebook.com/sharer.php?u=your_website_url" target="_blank">
                 <img src="facebook-logo.png" alt="Facebook">
             </a>
-            <a href="https://twitter.com/intent/tweet?text=dark%20out%20this%20cat%20belo&meme=your_website_url" target="_blank">
+            <a href="https://twitter.com/intent/tweet?text=dark%20%20this%20cat%20belo&meme=your_website_url" target="_blank">
                 <img src="twitter-logo.png" alt="Twitter">
             </a>
             <a href="https://www.instagram.com/share?url=your_website_url" target="_blank">
